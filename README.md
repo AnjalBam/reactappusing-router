@@ -66,3 +66,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### While installing Dependencies to be added along with create-react-app default
+
+"react-router-dom"
+
+`npm install -S react-router-dom`
+or
+`yarn add react-router-dom`
+
+"styled-components"
+
+`npm install -S styled-components`
+or
+`yarn add styled-components`
+
+"react-typed"
+
+`npm install -S react-typed`
+
+or
+
+`yarn add react-typed`
