@@ -11,6 +11,9 @@
 # production
 /build
 
+#font-awesome files
+
+src/fontawesome-free-5.12.0-web
 # misc
 .DS_Store
 .env.local
